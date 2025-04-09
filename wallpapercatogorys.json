@@ -27,8 +27,12 @@
     "category": "Superhero",
     "url": "https://firebasestorage.googleapis.com/v0/b/wallpapersapp-815ed.appspot.com/o/Category%20Images%2Fsuperhero%202.jpg?alt=media&token=f8a1e5ba-2153-47e6-aa01-327331c152fd"
   },
-    {
+  {
     "category": "Other",
     "url": "https://firebasestorage.googleapis.com/v0/b/wallpapersapp-815ed.appspot.com/o/Category%20Images%2Fothers.jpg?alt=media&token=72099fe8-b6cf-417b-a330-5364ade782b7"
+  },
+  {
+    "category": "Stock",
+    "url": "https://firebasestorage.googleapis.com/v0/b/wallpapersapp-815ed.appspot.com/o/Category%20Images%2FStock.png?alt=media&token=0965351c-ce70-4618-b53f-76c8ab58b529"
   }
 ]
